@@ -1,3 +1,4 @@
+from math import prod
 from kafka import KafkaProducer
 import json
 from FakeSensorData import returnFakeData
